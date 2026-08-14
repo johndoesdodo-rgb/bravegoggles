@@ -31,6 +31,3 @@ $discard,site=kaanoon.com
 $discard,site=fox44news.com
 $discard,site=walnet.com
 $discard,site=chicagoinjurylawyer.com
-
-! Downrank instead of blocking (lowers position)
-/pattern-to-downrank/$downrank=3
