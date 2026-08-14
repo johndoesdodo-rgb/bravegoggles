@@ -4,6 +4,7 @@
 ! author: johndoe
 ! Discard specific domains completely
 $discard,site=pornhub.com
+$discard,site=xnxx.com
 ://xnxx.*^$discard
 ://*.xnxx.*^$discard
 $discard,site=xvideos.com
