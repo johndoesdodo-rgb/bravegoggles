@@ -7,6 +7,7 @@ $discard,site=pornhub.com
 ://xnxx.*^$discard
 ://*.xnxx.*^$discard
 $discard,site=xnxx.com
+$discard,site=xnxx.health
 $discard,site=xvideos.com
 $discard,site=xhamster.com
 $discard,site=youjizz.com
@@ -33,3 +34,12 @@ $discard,site=kaanoon.com
 $discard,site=fox44news.com
 $discard,site=walnet.com
 $discard,site=chicagoinjurylawyer.com
+$discard,site=area51.com
+$discard,site=heavy-r.com
+$discard,site=tnaflix.com
+$discard,site=cums.net
+$discard,site=nakedtube.com
+$discard,site=bookmark.xxx
+$discard,site=pornzog.com
+$discard,site=spankbag.com
+$discard,site=redporn.tv
