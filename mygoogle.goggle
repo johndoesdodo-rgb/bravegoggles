@@ -3,32 +3,34 @@
 ! public: false
 ! author: johndoe
 ! Discard specific domains completely
-$discard,site=pornhub
-$discard,site=xnxx
-$discard,site=xvideos
-$discard,site=xhamster
-$discard,site=youjizz
-$discard,site=erome
-$discard,site=youporn
-$discard,site=userporn
+$discard,site=pornhub.com
+$discard,site=xnxx.com
+$discard,site=xvideos.com
+$discard,site=xhamster.com
+$discard,site=youjizz.com
+$discard,site=erome.com
+$discard,site=youporn.com
+$discard,site=userporn.com
 $discard,site=hiden.live
-$discard,site=voyeurstyle
-$discard,site=handjobhub
-$discard,site=usersporn
-$discard,site=cnbc
-$discard,site=noodlemagazine
-$discard,site=12news
-$discard,site=reddit
-$discard,site=wtxl
-$discard,site=tiktok
-$discard,site=quora
-$discard,site=abc7chicago
+$discard,site=hiden.live.com
+$discard,site=voyeurstyle.com
+$discard,site=handjobhub.com
+$discard,site=usersporn.com
+$discard,site=cnbc.com
+$discard,site=noodlemagazine.com
+$discard,site=12news.com
+$discard,site=reddit.com
+$discard,site=wtxl.com
+$discard,site=tiktok.com
+$discard,site=quora.com
+$discard,site=abc7chicago.com
+$discard,site=stock.adobe.com
 $discard,site=stock.adobe
-$discard,site=youtube
-$discard,site=kaanoon
-$discard,site=fox44news
-$discard,site=walnet
-$discard,site=chicagoinjurylawyer
+$discard,site=youtube.com
+$discard,site=kaanoon.com
+$discard,site=fox44news.com
+$discard,site=walnet.com
+$discard,site=chicagoinjurylawyer.com
 
 ! Downrank instead of blocking (lowers position)
 /pattern-to-downrank/$downrank=3
