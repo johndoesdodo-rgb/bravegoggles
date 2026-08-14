@@ -30,8 +30,5 @@ $discard,site=fox44news
 $discard,site=walnet
 $discard,site=chicagoinjurylawyer
 
-! Discard using wildcards (blocks subdomains too)
-$discard,site=*.pornhub.com
-
 ! Downrank instead of blocking (lowers position)
 /pattern-to-downrank/$downrank=3
