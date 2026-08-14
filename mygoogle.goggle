@@ -3,7 +3,7 @@
 ! public: false
 ! author: johndoe
 ! Discard specific domains completely
-$discardsite=pornhub
+$discard,site=pornhub
 $discard,site=xnxx
 $discard,site=xvideos
 $discard,site=xhamster
