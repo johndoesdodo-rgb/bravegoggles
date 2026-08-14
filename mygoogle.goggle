@@ -1,0 +1,37 @@
+! name: My Custom Filter
+! description: Blocks specific spam sites
+! public: false
+! author: johndoe
+! Discard specific domains completely
+$discardsite=pornhub
+$discard,site=xnxx
+$discard,site=xvideos
+$discard,site=xhamster
+$discard,site=youjizz
+$discard,site=erome
+$discard,site=youporn
+$discard,site=userporn
+$discard,site=hiden.live
+$discard,site=voyeurstyle
+$discard,site=handjobhub
+$discard,site=usersporn
+$discard,site=cnbc
+$discard,site=noodlemagazine
+$discard,site=12news
+$discard,site=reddit
+$discard,site=wtxl
+$discard,site=tiktok
+$discard,site=quora
+$discard,site=abc7chicago
+$discard,site=stock.adobe
+$discard,site=youtube
+$discard,site=kaanoon
+$discard,site=fox44news
+$discard,site=walnet
+$discard,site=chicagoinjurylawyer
+
+! Discard using wildcards (blocks subdomains too)
+$discard,site=*.adsite.com
+
+! Downrank instead of blocking (lowers position)
+/pattern-to-downrank/$downrank=3
